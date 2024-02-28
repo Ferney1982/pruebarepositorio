@@ -1,0 +1,9 @@
+git init
+git status
+git add "index.html" -añadir un archivo
+git add . -añadir varios archivos
+
+git commit -m (es para confirmar los cambios)
+
+
+git reset "nombre completo del archivo" lo saca de git
